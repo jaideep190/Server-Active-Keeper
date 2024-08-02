@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const PING_INTERVAL = 60000; // 2 minutes in milliseconds
+const PING_INTERVAL = 30000; //
 
 const APIs = [
   {
